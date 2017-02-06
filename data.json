@@ -1863,26 +1863,6 @@
    "score": 1
   },
   {
-   "login": "Aufree",
-   "id": 5310542,
-   "avatar_url": "https://avatars.githubusercontent.com/u/5310542?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/Aufree",
-   "html_url": "https://github.com/Aufree",
-   "followers_url": "https://api.github.com/users/Aufree/followers",
-   "following_url": "https://api.github.com/users/Aufree/following{/other_user}",
-   "gists_url": "https://api.github.com/users/Aufree/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/Aufree/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/Aufree/subscriptions",
-   "organizations_url": "https://api.github.com/users/Aufree/orgs",
-   "repos_url": "https://api.github.com/users/Aufree/repos",
-   "events_url": "https://api.github.com/users/Aufree/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/Aufree/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "mmin18",
    "id": 748883,
    "avatar_url": "https://avatars.githubusercontent.com/u/748883?v=3",
@@ -1898,6 +1878,26 @@
    "repos_url": "https://api.github.com/users/mmin18/repos",
    "events_url": "https://api.github.com/users/mmin18/events{/privacy}",
    "received_events_url": "https://api.github.com/users/mmin18/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "Aufree",
+   "id": 5310542,
+   "avatar_url": "https://avatars.githubusercontent.com/u/5310542?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/Aufree",
+   "html_url": "https://github.com/Aufree",
+   "followers_url": "https://api.github.com/users/Aufree/followers",
+   "following_url": "https://api.github.com/users/Aufree/following{/other_user}",
+   "gists_url": "https://api.github.com/users/Aufree/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/Aufree/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/Aufree/subscriptions",
+   "organizations_url": "https://api.github.com/users/Aufree/orgs",
+   "repos_url": "https://api.github.com/users/Aufree/repos",
+   "events_url": "https://api.github.com/users/Aufree/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/Aufree/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2006,8 +2006,8 @@
  "meta": {
   "x-ratelimit-limit": "10",
   "x-ratelimit-remaining": "5",
-  "x-ratelimit-reset": "1486353721",
-  "x-github-request-id": "B857:2CED:FBBBC8D:135F9305:5897F4FC",
+  "x-ratelimit-reset": "1486357320",
+  "x-github-request-id": "B8CA:2CF4:F29DB2F:12B59065:5898030C",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"last\"",
   "status": "200 OK"
  }
