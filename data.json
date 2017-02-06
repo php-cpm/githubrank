@@ -1743,26 +1743,6 @@
    "score": 1
   },
   {
-   "login": "jiyinyiyong",
-   "id": 449224,
-   "avatar_url": "https://avatars.githubusercontent.com/u/449224?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/jiyinyiyong",
-   "html_url": "https://github.com/jiyinyiyong",
-   "followers_url": "https://api.github.com/users/jiyinyiyong/followers",
-   "following_url": "https://api.github.com/users/jiyinyiyong/following{/other_user}",
-   "gists_url": "https://api.github.com/users/jiyinyiyong/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/jiyinyiyong/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/jiyinyiyong/subscriptions",
-   "organizations_url": "https://api.github.com/users/jiyinyiyong/orgs",
-   "repos_url": "https://api.github.com/users/jiyinyiyong/repos",
-   "events_url": "https://api.github.com/users/jiyinyiyong/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/jiyinyiyong/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "airen",
    "id": 368462,
    "avatar_url": "https://avatars.githubusercontent.com/u/368462?v=3",
@@ -1778,6 +1758,26 @@
    "repos_url": "https://api.github.com/users/airen/repos",
    "events_url": "https://api.github.com/users/airen/events{/privacy}",
    "received_events_url": "https://api.github.com/users/airen/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "jiyinyiyong",
+   "id": 449224,
+   "avatar_url": "https://avatars.githubusercontent.com/u/449224?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/jiyinyiyong",
+   "html_url": "https://github.com/jiyinyiyong",
+   "followers_url": "https://api.github.com/users/jiyinyiyong/followers",
+   "following_url": "https://api.github.com/users/jiyinyiyong/following{/other_user}",
+   "gists_url": "https://api.github.com/users/jiyinyiyong/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/jiyinyiyong/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/jiyinyiyong/subscriptions",
+   "organizations_url": "https://api.github.com/users/jiyinyiyong/orgs",
+   "repos_url": "https://api.github.com/users/jiyinyiyong/repos",
+   "events_url": "https://api.github.com/users/jiyinyiyong/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/jiyinyiyong/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "4",
-  "x-ratelimit-reset": "1486371721",
-  "x-github-request-id": "FEB2:2CED:FEAB154:139B353E:58983B4C",
+  "x-ratelimit-remaining": "7",
+  "x-ratelimit-reset": "1486375321",
+  "x-github-request-id": "BAED:2CF1:988C090:BC41E3F:5898495C",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"last\"",
   "status": "200 OK"
  }
