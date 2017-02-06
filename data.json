@@ -1863,26 +1863,6 @@
    "score": 1
   },
   {
-   "login": "mmin18",
-   "id": 748883,
-   "avatar_url": "https://avatars.githubusercontent.com/u/748883?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/mmin18",
-   "html_url": "https://github.com/mmin18",
-   "followers_url": "https://api.github.com/users/mmin18/followers",
-   "following_url": "https://api.github.com/users/mmin18/following{/other_user}",
-   "gists_url": "https://api.github.com/users/mmin18/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/mmin18/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/mmin18/subscriptions",
-   "organizations_url": "https://api.github.com/users/mmin18/orgs",
-   "repos_url": "https://api.github.com/users/mmin18/repos",
-   "events_url": "https://api.github.com/users/mmin18/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/mmin18/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "Aufree",
    "id": 5310542,
    "avatar_url": "https://avatars.githubusercontent.com/u/5310542?v=3",
@@ -1898,6 +1878,26 @@
    "repos_url": "https://api.github.com/users/Aufree/repos",
    "events_url": "https://api.github.com/users/Aufree/events{/privacy}",
    "received_events_url": "https://api.github.com/users/Aufree/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "mmin18",
+   "id": 748883,
+   "avatar_url": "https://avatars.githubusercontent.com/u/748883?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/mmin18",
+   "html_url": "https://github.com/mmin18",
+   "followers_url": "https://api.github.com/users/mmin18/followers",
+   "following_url": "https://api.github.com/users/mmin18/following{/other_user}",
+   "gists_url": "https://api.github.com/users/mmin18/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/mmin18/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/mmin18/subscriptions",
+   "organizations_url": "https://api.github.com/users/mmin18/orgs",
+   "repos_url": "https://api.github.com/users/mmin18/repos",
+   "events_url": "https://api.github.com/users/mmin18/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/mmin18/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "5",
-  "x-ratelimit-reset": "1486357320",
-  "x-github-request-id": "B8CA:2CF4:F29DB2F:12B59065:5898030C",
+  "x-ratelimit-remaining": "1",
+  "x-ratelimit-reset": "1486360921",
+  "x-github-request-id": "FD71:2CED:FCD6C62:1375620D:5898111F",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"last\"",
   "status": "200 OK"
  }
