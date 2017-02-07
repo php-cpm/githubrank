@@ -1,4 +1,73 @@
 {
- "items": [],
- "total_count": 0
+ "total_count": 3,
+ "incomplete_results": false,
+ "items": [
+  {
+   "login": "easychen",
+   "id": 1294760,
+   "avatar_url": "https://avatars.githubusercontent.com/u/1294760?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/easychen",
+   "html_url": "https://github.com/easychen",
+   "followers_url": "https://api.github.com/users/easychen/followers",
+   "following_url": "https://api.github.com/users/easychen/following{/other_user}",
+   "gists_url": "https://api.github.com/users/easychen/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/easychen/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/easychen/subscriptions",
+   "organizations_url": "https://api.github.com/users/easychen/orgs",
+   "repos_url": "https://api.github.com/users/easychen/repos",
+   "events_url": "https://api.github.com/users/easychen/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/easychen/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "lzyy",
+   "id": 35974,
+   "avatar_url": "https://avatars.githubusercontent.com/u/35974?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/lzyy",
+   "html_url": "https://github.com/lzyy",
+   "followers_url": "https://api.github.com/users/lzyy/followers",
+   "following_url": "https://api.github.com/users/lzyy/following{/other_user}",
+   "gists_url": "https://api.github.com/users/lzyy/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/lzyy/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/lzyy/subscriptions",
+   "organizations_url": "https://api.github.com/users/lzyy/orgs",
+   "repos_url": "https://api.github.com/users/lzyy/repos",
+   "events_url": "https://api.github.com/users/lzyy/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/lzyy/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "walkor",
+   "id": 6073368,
+   "avatar_url": "https://avatars.githubusercontent.com/u/6073368?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/walkor",
+   "html_url": "https://github.com/walkor",
+   "followers_url": "https://api.github.com/users/walkor/followers",
+   "following_url": "https://api.github.com/users/walkor/following{/other_user}",
+   "gists_url": "https://api.github.com/users/walkor/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/walkor/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/walkor/subscriptions",
+   "organizations_url": "https://api.github.com/users/walkor/orgs",
+   "repos_url": "https://api.github.com/users/walkor/repos",
+   "events_url": "https://api.github.com/users/walkor/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/walkor/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  }
+ ],
+ "meta": {
+  "x-ratelimit-limit": "10",
+  "x-ratelimit-remaining": "9",
+  "x-ratelimit-reset": "1486497721",
+  "x-github-request-id": "11B3:2CF4:109C9308:148FF2C2:589A277C",
+  "status": "200 OK"
+ }
 }
