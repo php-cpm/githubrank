@@ -65,9 +65,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "9",
-  "x-ratelimit-reset": "1486465321",
-  "x-github-request-id": "0DD7:2CEC:4F9B3F6:634C3EE:5899A8EC",
+  "x-ratelimit-remaining": "4",
+  "x-ratelimit-reset": "1486468921",
+  "x-github-request-id": "0E45:2CF4:1046AF09:14243313:5899B6FC",
   "status": "200 OK"
  }
 }
