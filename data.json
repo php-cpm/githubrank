@@ -1003,26 +1003,6 @@
    "score": 1
   },
   {
-   "login": "buckyroberts",
-   "id": 8547538,
-   "avatar_url": "https://avatars.githubusercontent.com/u/8547538?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/buckyroberts",
-   "html_url": "https://github.com/buckyroberts",
-   "followers_url": "https://api.github.com/users/buckyroberts/followers",
-   "following_url": "https://api.github.com/users/buckyroberts/following{/other_user}",
-   "gists_url": "https://api.github.com/users/buckyroberts/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/buckyroberts/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/buckyroberts/subscriptions",
-   "organizations_url": "https://api.github.com/users/buckyroberts/orgs",
-   "repos_url": "https://api.github.com/users/buckyroberts/repos",
-   "events_url": "https://api.github.com/users/buckyroberts/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/buckyroberts/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "getify",
    "id": 150330,
    "avatar_url": "https://avatars.githubusercontent.com/u/150330?v=3",
@@ -1038,6 +1018,26 @@
    "repos_url": "https://api.github.com/users/getify/repos",
    "events_url": "https://api.github.com/users/getify/events{/privacy}",
    "received_events_url": "https://api.github.com/users/getify/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "buckyroberts",
+   "id": 8547538,
+   "avatar_url": "https://avatars.githubusercontent.com/u/8547538?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/buckyroberts",
+   "html_url": "https://github.com/buckyroberts",
+   "followers_url": "https://api.github.com/users/buckyroberts/followers",
+   "following_url": "https://api.github.com/users/buckyroberts/following{/other_user}",
+   "gists_url": "https://api.github.com/users/buckyroberts/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/buckyroberts/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/buckyroberts/subscriptions",
+   "organizations_url": "https://api.github.com/users/buckyroberts/orgs",
+   "repos_url": "https://api.github.com/users/buckyroberts/repos",
+   "events_url": "https://api.github.com/users/buckyroberts/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/buckyroberts/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "5",
-  "x-ratelimit-reset": "1486472521",
-  "x-github-request-id": "0EB8:2CF4:10512FC1:143189BA:5899C50C",
+  "x-ratelimit-remaining": "7",
+  "x-ratelimit-reset": "1486476121",
+  "x-github-request-id": "0F25:2CF1:A33D305:CA245B4:5899D31C",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=8>; rel=\"last\"",
   "status": "200 OK"
  }
