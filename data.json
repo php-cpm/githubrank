@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "5",
-  "x-ratelimit-reset": "1486447320",
-  "x-github-request-id": "C383:2CED:10A8209E:148DFA49:5899629C",
+  "x-ratelimit-remaining": "6",
+  "x-ratelimit-reset": "1486450921",
+  "x-github-request-id": "C3EF:2CED:10AFE365:1498A5CC:589970AC",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=8>; rel=\"last\"",
   "status": "200 OK"
  }
