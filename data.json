@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "6",
-  "x-ratelimit-reset": "1486468921",
-  "x-github-request-id": "0E4B:2CEC:4FDBF16:63A0D44:5899B6FD",
+  "x-ratelimit-remaining": "4",
+  "x-ratelimit-reset": "1486472521",
+  "x-github-request-id": "0EB9:2CF1:A2C97BE:C9929A2:5899C50D",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"last\"",
   "status": "200 OK"
  }
