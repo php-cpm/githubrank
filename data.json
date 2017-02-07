@@ -663,26 +663,6 @@
    "score": 1
   },
   {
-   "login": "taylorotwell",
-   "id": 463230,
-   "avatar_url": "https://avatars.githubusercontent.com/u/463230?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/taylorotwell",
-   "html_url": "https://github.com/taylorotwell",
-   "followers_url": "https://api.github.com/users/taylorotwell/followers",
-   "following_url": "https://api.github.com/users/taylorotwell/following{/other_user}",
-   "gists_url": "https://api.github.com/users/taylorotwell/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/taylorotwell/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/taylorotwell/subscriptions",
-   "organizations_url": "https://api.github.com/users/taylorotwell/orgs",
-   "repos_url": "https://api.github.com/users/taylorotwell/repos",
-   "events_url": "https://api.github.com/users/taylorotwell/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/taylorotwell/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "angusshire",
    "id": 5877145,
    "avatar_url": "https://avatars.githubusercontent.com/u/5877145?v=3",
@@ -698,6 +678,26 @@
    "repos_url": "https://api.github.com/users/angusshire/repos",
    "events_url": "https://api.github.com/users/angusshire/events{/privacy}",
    "received_events_url": "https://api.github.com/users/angusshire/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "taylorotwell",
+   "id": 463230,
+   "avatar_url": "https://avatars.githubusercontent.com/u/463230?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/taylorotwell",
+   "html_url": "https://github.com/taylorotwell",
+   "followers_url": "https://api.github.com/users/taylorotwell/followers",
+   "following_url": "https://api.github.com/users/taylorotwell/following{/other_user}",
+   "gists_url": "https://api.github.com/users/taylorotwell/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/taylorotwell/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/taylorotwell/subscriptions",
+   "organizations_url": "https://api.github.com/users/taylorotwell/orgs",
+   "repos_url": "https://api.github.com/users/taylorotwell/repos",
+   "events_url": "https://api.github.com/users/taylorotwell/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/taylorotwell/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "7",
-  "x-ratelimit-reset": "1486440120",
-  "x-github-request-id": "0ADB:2CF4:10020882:13C933B9:5899467C",
+  "x-ratelimit-remaining": "2",
+  "x-ratelimit-reset": "1486443721",
+  "x-github-request-id": "0B46:2CF4:10097F29:13D33030:5899548F",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000&per_page=100&page=8>; rel=\"last\"",
   "status": "200 OK"
  }
