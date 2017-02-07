@@ -1743,26 +1743,6 @@
    "score": 1
   },
   {
-   "login": "airen",
-   "id": 368462,
-   "avatar_url": "https://avatars.githubusercontent.com/u/368462?v=3",
-   "gravatar_id": "",
-   "url": "https://api.github.com/users/airen",
-   "html_url": "https://github.com/airen",
-   "followers_url": "https://api.github.com/users/airen/followers",
-   "following_url": "https://api.github.com/users/airen/following{/other_user}",
-   "gists_url": "https://api.github.com/users/airen/gists{/gist_id}",
-   "starred_url": "https://api.github.com/users/airen/starred{/owner}{/repo}",
-   "subscriptions_url": "https://api.github.com/users/airen/subscriptions",
-   "organizations_url": "https://api.github.com/users/airen/orgs",
-   "repos_url": "https://api.github.com/users/airen/repos",
-   "events_url": "https://api.github.com/users/airen/events{/privacy}",
-   "received_events_url": "https://api.github.com/users/airen/received_events",
-   "type": "User",
-   "site_admin": false,
-   "score": 1
-  },
-  {
    "login": "jiyinyiyong",
    "id": 449224,
    "avatar_url": "https://avatars.githubusercontent.com/u/449224?v=3",
@@ -1778,6 +1758,26 @@
    "repos_url": "https://api.github.com/users/jiyinyiyong/repos",
    "events_url": "https://api.github.com/users/jiyinyiyong/events{/privacy}",
    "received_events_url": "https://api.github.com/users/jiyinyiyong/received_events",
+   "type": "User",
+   "site_admin": false,
+   "score": 1
+  },
+  {
+   "login": "airen",
+   "id": 368462,
+   "avatar_url": "https://avatars.githubusercontent.com/u/368462?v=3",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/airen",
+   "html_url": "https://github.com/airen",
+   "followers_url": "https://api.github.com/users/airen/followers",
+   "following_url": "https://api.github.com/users/airen/following{/other_user}",
+   "gists_url": "https://api.github.com/users/airen/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/airen/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/airen/subscriptions",
+   "organizations_url": "https://api.github.com/users/airen/orgs",
+   "repos_url": "https://api.github.com/users/airen/repos",
+   "events_url": "https://api.github.com/users/airen/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/airen/received_events",
    "type": "User",
    "site_admin": false,
    "score": 1
@@ -2005,9 +2005,9 @@
  ],
  "meta": {
   "x-ratelimit-limit": "10",
-  "x-ratelimit-remaining": "5",
-  "x-ratelimit-reset": "1486450921",
-  "x-github-request-id": "0C28:2CF4:10198154:13E8DA40:589970AD",
+  "x-ratelimit-remaining": "6",
+  "x-ratelimit-reset": "1486454521",
+  "x-github-request-id": "0C94:2CF1:A0BFF51:C6E720D:58997EBD",
   "link": "<https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"next\", <https://api.github.com/search/users?q=followers%3A%3E1000+location%3AChina&per_page=100&page=2>; rel=\"last\"",
   "status": "200 OK"
  }
